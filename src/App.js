@@ -6,4 +6,6 @@ function App() {
     );
 }
 
+// API key = 'f6eaa0122eef4f9f9d552d3c997914a7'
+
 export default App;
